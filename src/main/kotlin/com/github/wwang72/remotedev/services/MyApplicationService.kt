@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wwang72.remotedev.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wwang72.remotedev.MyBundle
 
 class MyApplicationService {
 
